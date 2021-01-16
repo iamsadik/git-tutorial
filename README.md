@@ -11,3 +11,8 @@ I am tryingg to learn remote and local repository system...pull ..HAHAHA
 
 
 Thank You!  Have a good day!
+
+
+
+
+ok. now iam using stash
